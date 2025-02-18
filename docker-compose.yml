@@ -1,0 +1,13 @@
+version: "3.8"
+
+services:
+  airflow-webserver:
+    image: apache/airflow:2.10.4-python3.12
+    container_name: airflow-webserver
+    restart: always
+    volumes:
+      - "/c/Users/minhp/PycharmProjects/SoFIFA/Scrapping:/opt/airflow/dags"  # Gắn thư mục DAGs vào container
+      - 
+    ports:
+      - "8080:8080"
+    command: bash -c '( airflow db init && airflow users create --username admin --password admin --firstname NDH --lastname Ming --role Admin --email minhpro013@gmail.com); airflow webserver & airflow scheduler'

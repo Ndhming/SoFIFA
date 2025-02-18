@@ -1,0 +1,67 @@
+# Từ điển dữ liệu cuối cùng cho cleaned_sofifa_players.csv
+
+- **Player Name**: Tên đầy đủ của cầu thủ.
+- **Position**: Vị trí chính mà cầu thủ thi đấu (ví dụ: ST, CM, CB, GK).
+- **Age**: Tuổi của cầu thủ.
+- **Overall Rating**: Chỉ số tổng quát phản ánh chất lượng tổng thể của cầu thủ (0-100).
+- **Potential**: Chỉ số tiềm năng tối đa mà cầu thủ có thể đạt được (0-100).
+- **Team Contracts**: Câu lạc bộ hiện tại và thời hạn hợp đồng của cầu thủ (ví dụ: 'Liverpool 2017 ~ 2025').
+- **ID**: Mã định danh duy nhất của cầu thủ trong cơ sở dữ liệu SOFIFA.
+- **Height**: Chiều cao của cầu thủ tính bằng cm.
+- **Weight**: Cân nặng của cầu thủ tính bằng kg.
+- **Preferred foot**: Chân thuận của cầu thủ (Trái hoặc Phải).
+- **Best overall**: Chỉ số tổng quát cao nhất mà cầu thủ đạt được ở bất kỳ vị trí nào.
+- **Best Position**: Vị trí mà cầu thủ thi đấu tốt nhất dựa trên các chỉ số.
+- **Growth**: Sự chênh lệch giữa chỉ số tiềm năng và chỉ số tổng quát hiện tại của cầu thủ.
+- **Value**: Giá trị ước tính của cầu thủ trên thị trường chuyển nhượng.
+- **Wage**: Mức lương hàng tuần của cầu thủ.
+- **Release clause**: Khoản phí giải phóng hợp đồng, nếu được kích hoạt, cho phép câu lạc bộ khác mua cầu thủ mà không cần thương lượng.
+- **Total attacking**: Tổng điểm của tất cả các chỉ số liên quan đến tấn công.
+- **Crossing**: Khả năng tạt bóng chính xác.
+- **Finishing**: Khả năng dứt điểm của cầu thủ.
+- **Heading accuracy**: Khả năng đánh đầu chính xác của cầu thủ.
+- **Short passing**: Khả năng chuyền ngắn chính xác của cầu thủ.
+- **Volleys**: Kỹ thuật vô lê khi sút bóng.
+- **Total skill**: Tổng điểm của tất cả các chỉ số kỹ thuật.
+- **Dribbling**: Khả năng rê bóng và kiểm soát bóng.
+- **Curve**: Khả năng sút xoáy của cầu thủ.
+- **FK accuracy**: Độ chính xác khi thực hiện đá phạt.
+- **Long passing**: Khả năng chuyền dài chính xác.
+- **Ball control**: Khả năng kiểm soát bóng.
+- **Total movement**: Tổng điểm của tất cả các chỉ số liên quan đến di chuyển, bao gồm tốc độ và sự nhanh nhẹn.
+- **Acceleration**: Tốc độ tăng tốc của cầu thủ.
+- **Sprint speed**: Tốc độ tối đa khi chạy nước rút.
+- **Agility**: Sự linh hoạt và khả năng đổi hướng nhanh chóng.
+- **Reactions**: Tốc độ phản ứng với tình huống trên sân.
+- **Balance**: Khả năng giữ thăng bằng khi chịu áp lực.
+- **Total power**: Tổng điểm của tất cả các chỉ số liên quan đến sức mạnh.
+- **Shot power**: Lực sút của cầu thủ.
+- **Jumping**: Khả năng bật nhảy.
+- **Stamina**: Thể lực duy trì trong trận đấu.
+- **Strength**: Sức mạnh thể chất của cầu thủ.
+- **Long shots**: Khả năng dứt điểm từ xa.
+- **Total mentality**: Tổng điểm của tất cả các chỉ số liên quan đến tâm lý thi đấu.
+- **Aggression**: Mức độ hiếu chiến của cầu thủ.
+- **Interceptions**: Khả năng đọc trận đấu và cắt bóng.
+- **Positioning**: Khả năng chọn vị trí trong các tình huống tấn công.
+- **Vision**: Khả năng quan sát và thực hiện đường chuyền hợp lý.
+- **Penalties**: Kỹ năng sút phạt đền.
+- **Composure**: Khả năng giữ bình tĩnh và xử lý bóng dưới áp lực.
+- **Total defending**: Tổng điểm của tất cả các chỉ số phòng ngự.
+- **Defendsive Awareness**: Khả năng đọc trận đấu và phán đoán trong phòng ngự.
+- **Standing Tackle**: Kỹ năng cản phá khi đứng.
+- **Sliding Tackle**: Kỹ năng cản phá khi trượt.
+- **Total goalkeeping**: Tổng điểm của tất cả các chỉ số dành cho thủ môn.
+- **GK Diving**: Khả năng bay người cản phá (chỉ dành cho thủ môn).
+- **GK Handling**: Kỹ năng bắt và giữ bóng (chỉ dành cho thủ môn).
+- **GK Kicking**: Khả năng phát bóng chính xác và mạnh (chỉ dành cho thủ môn).
+- **GK Positioning**: Khả năng chọn vị trí hợp lý trong khung thành (chỉ dành cho thủ môn).
+- **GK Reflexes**: Tốc độ phản xạ với các cú sút (chỉ dành cho thủ môn).
+- **Total stats**: Tổng điểm của tất cả các chỉ số cầu thủ.
+- **Base stats**: Tổng điểm của các chỉ số cơ bản phản ánh chất lượng tổng thể của cầu thủ.
+- **international reputation**: Chỉ số danh tiếng quốc tế (1-5), phản ánh mức độ nhận diện của cầu thủ trên đấu trường thế giới.
+- **pace/diving**: Với cầu thủ ngoài sân: chỉ số tốc độ. Với thủ môn: chỉ số bay người cản phá.
+- **shooting/handling**: Với cầu thủ ngoài sân: chỉ số dứt điểm. Với thủ môn: chỉ số bắt bóng.
+- **passing/kicking**: Với cầu thủ ngoài sân: chỉ số chuyền bóng. Với thủ môn: chỉ số phát bóng.
+- **dribbling/positioning**: Với cầu thủ ngoài sân: chỉ số rê bóng. Với thủ môn: chỉ số chọn vị trí.
+- **defending/pace**: Với cầu thủ ngoài sân: chỉ số phòng ngự. Với thủ môn: tốc độ di chuyển trong khung thành.
