@@ -20,7 +20,7 @@ Bước tiếp theo, thực hiện chuẩn hóa dữ liệu để đảm bảo t
 
 Trước tiên, tên các cột trong dataframe được làm sạch bằng cách loại bỏ khoảng trắng dư thừa, giúp tránh lỗi khi thao tác với dữ liệu. Đối với các cột về chiều cao và cân nặng, tôi loại bỏ các ký tự không cần thiết (ví dụ: "cm", "kg") và chuyển đổi tất cả về đơn vị cm và kg để đồng bộ. 
 
-<img src="[https://imgur.com/a/scrubbing-data-20BgG64](https://imgur.com/upXd4vk)">
+<img src="https://imgur.com/upXd4vk">
 
 
 Ngoài ra, dữ liệu về giá trị cầu thủ được chuẩn hóa bằng cách xây dựng hàm convert_currency(), trong đó các giá trị tiền tệ được chuyển từ dạng "€X triệu" hoặc "€X nghìn" thành số thực giúp thuận tiện hơn khi phân tích.
